@@ -19,9 +19,10 @@ interface ExampleInterface1 {
 
 	//Interface can have a default definition of method.
 	//NEW FEATURE
-	default void method5() {
-		System.out.println("Method5");
-	}
+
+//	default void method5() {
+//		System.out.println("Method5");
+//	}
 }
 
 interface ExampleInterface2 {
