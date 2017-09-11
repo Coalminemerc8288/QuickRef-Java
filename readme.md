@@ -1,8 +1,5 @@
 # Java Quick Refresher
 
-### PDF Guide
-Available in the resources for the course
-
 ### Java Platform
 - 1 . Why is Java so popular?
 - 2 . What is platform independence?
